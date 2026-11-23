@@ -9,7 +9,7 @@ Statische Website (reines HTML/CSS/JS, kein Build-Schritt). Gestaltet nach dem P
 | Datei | Zweck |
 |---|---|
 | `index.html` | Landingpage |
-| `impressum.html`, `datenschutz.html` | Rechtstexte – **Platzhalter in [eckigen Klammern] ausfüllen!** |
+| `impressum.html`, `datenschutz.html` | Rechtstexte |
 | `404.html` | Fehlerseite |
 | `assets/css/style.css` | Alle Styles (Tokens oben = Styleguide) |
 | `assets/js/main.js` | Header-Linie beim Scrollen, Einblend-Effekt |
